@@ -1,45 +1,51 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
+Having strong knowledge of computer science fundamentals & problem-solving skills, experience in object-oriented development, good comprehension of data structures, algorithms and complexity theory, strong database and scripting skills. Excellent communication, teamwork and analytical skills.
 
 ---
 
 ## Skills
 
-<p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-</p>
+- Programming Languages: C, C++, Java, Python
+- Databases: SQL, PLSQL, MongoDB (Basics)
+- Front End: HTML, CSS, PHP
+- Version Control: Git, Github
 
 ---
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **TECHNOLOGY ANALYST TRAINEE**, COGNIZANT TECHNOLOGY SOLUTIONS
+#### Jan 2022 - Present
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+### **TECHNOLOGY INTERN**, RBL BANK
+#### Jun 2021 - Jul 2021
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+- Responsible for designing, developing and maintaining applications at the bank. Designing specific features for the Customer Relationship Management project.
+- Meeting with clients to gather and analyze requirements. Evaluating, integrating and developing necessary software followed by deploying applications to production.
+- Understanding software development process, workflows, and system analytics. Reduced system latency by 30% after integrating APIs.
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+### **SUBJECT MATTER EXXPERT**, CHEGG INC
+#### Nov 2020 - May 2021
 
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
+- Applying knowledge of computer science to solve queries asked by students.
+- Communicating with students to provide them better understanding & concrete comprehension.
+- Made the students understand the value of analytical thinking and English fluency while understanding the concepts.
 
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+### **SOFTWARE INTERN**, SPRINGJAUNTER TECHNOLOGIES
+#### Sep 2018 - Oct 2018
+
+- Developing high-performing low-latency systems in C and C++ using suitable Data Structures and Algorithms.
+- Understanding the Windows & Linux Operating System. Maintaining code quality and adding Object-Oriented Programming features wherever needed.
 
 ---
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **D.Y. PATIL COLLEGE OF ENGINEERING, PUNE**
+### **SAVITRIBAI PHULE PUNE UNIVERSITY**
+### Bachelor of Engineering - Computer Science (2018- 2022)
+GPA 9.93
 
 ---
 
