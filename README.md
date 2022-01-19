@@ -43,9 +43,8 @@ Having strong knowledge of computer science fundamentals & problem-solving skill
 ## Education
 
 ### **D.Y. PATIL COLLEGE OF ENGINEERING, PUNE**
-### **SAVITRIBAI PHULE PUNE UNIVERSITY**
-### Bachelor of Engineering - Computer Science (2018- 2022)
-GPA 9.93
+#### Bachelor of Engineering - Computer Science (2018- 2022)
+##### CGPA 9.93
 
 ---
 
