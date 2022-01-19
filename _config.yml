@@ -1,11 +1,10 @@
-title: Aneerban Chowdhury # your name (or website title) here
-logo: "/profile.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Aneerban Chowdhury
+logo: "/profile.png?raw=true"
+description: > 
  Aspiring Software Engineer
   <br><br>
   <a href="mailto:aneerban10@gmail.com">aneerban10@gmail.com </a>
   <br>
   <a href="https://www.linkedin.com/in/aneerban-chowdhury/">LinkedIn Profile</a>
-  <br>
-  #<a href="https://www.gihub.com/aashimaahuja/">Gihub</a> 
+  <br><br><br>
 theme: jekyll-theme-minimal
